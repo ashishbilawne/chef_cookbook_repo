@@ -1,7 +1,0 @@
-name             'Test'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
-license          'All rights reserved'
-description      'Installs/Configures Test'
-long_description 'Installs/Configures Test'
-version          '0.1.0'
