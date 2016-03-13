@@ -1,0 +1,7 @@
+name             'mytestfinal'
+maintainer       'ashishbilawne'
+maintainer_email 'ashishbilawne@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures mytestfinal'
+long_description 'Installs/Configures mytestfinal'
+version          '0.1.0'
