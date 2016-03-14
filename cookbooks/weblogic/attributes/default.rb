@@ -28,3 +28,7 @@ default['weblogic']['installer_checksum']                      = 'e6efe85f3aec00
 default['weblogic']['install_type']                            = 'WebLogic Server'
 default['oui']['inventory_loc']                                = '/home/oracle/orainventory'
 default['oui']['install_group']                                = 'oracle'
+default['java']['jdk_version'] = '7'
+default['java']['install_flavor'] = 'oracle'
+#default['java']['jdk']['7']['x86_64']['url'] = 'http://artifactory.example.com/artifacts/jdk-7u65-linux-x64.tar.gz'
+default['java']['oracle']['accept_oracle_download_terms'] = true
